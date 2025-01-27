@@ -12,27 +12,22 @@
 
 
 
-
 ### Option 2: Download the Executable
 
-  Download the executable directly from the repository:
-  [Download grrs.exe](https://github.com/Krygz/Simple-CLI/raw/refs/heads/main/grrs.exe)
+Download the executable directly from the repository:  
+[Download grrs.exe](https://github.com/Krygz/Simple-CLI/raw/refs/heads/main/grrs.exe)
 
-  Place the grrs.exe file in any directory included in your system's PATH or a convenient location.
-  
+Place the `grrs.exe` file in any directory included in your system's PATH or a convenient location.
 
+---
 
-  
-USAGE:
+## Usage
 
-Run the application from the command line with the following syntax:
-
+Run the application from the command line with the following syntax:  
+```bash
 C:\>grrs <word> <path>
-
-
-
-
-EXAMPLE:
+```
+## EXAMPLE:
 
 C:\>grrs hello C:\files\example.txt
 
