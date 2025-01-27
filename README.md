@@ -1,5 +1,6 @@
 CLI Word Search Tool
 How to Use
+
 Option 1: Clone the Repository
 
 1 - Clone the repository using the following command:
