@@ -8,7 +8,7 @@
    ```bash
    git clone https://github.com/Krygz/Simple-CLI.git
 
-2 - Navigate to the directory and follow the instructions in the README to get started.
+  2 - Navigate to the directory and follow the instructions in the README to get started.
 
 
 
