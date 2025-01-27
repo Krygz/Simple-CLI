@@ -13,7 +13,7 @@
 
 
 
-###Option 2: Download the Executable
+### Option 2: Download the Executable
 
   Download the executable directly from the repository:
   [Download grrs.exe](https://github.com/Krygz/Simple-CLI/raw/refs/heads/main/grrs.exe)
