@@ -1,15 +1,12 @@
-CLI Word Search Tool
+# CLI Word Search Tool
 
+## How to Use
 
-How to Use
+### Option 1: Clone the Repository
 
-
-
-
-Option 1: Clone the Repository
-
-1 - Clone the repository using the following command:
-    git clone https://github.com/Krygz/Simple-CLI.git
+1. Clone the repository using the following command:  
+   ```bash
+   git clone https://github.com/Krygz/Simple-CLI.git
 
 2 - Navigate to the directory and follow the instructions in the README to get started.
 
