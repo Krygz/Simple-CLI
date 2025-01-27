@@ -29,7 +29,7 @@ C:\>grrs <word> <path>
 ```
 ## EXAMPLE:
 
-C:\>grrs hello  C:\files\example.txt
+C:\>grrs <hello> <C:\files\example.txt>
 
 
 This command will search for the word hello in the file located at C:\files\example.txt and display all matching results.
