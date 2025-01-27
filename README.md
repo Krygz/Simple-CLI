@@ -1,5 +1,9 @@
 CLI Word Search Tool
+
+
 How to Use
+
+
 
 
 Option 1: Clone the Repository
@@ -10,6 +14,8 @@ Option 1: Clone the Repository
 2 - Navigate to the directory and follow the instructions in the README to get started.
 
 
+
+
 Option 2: Download the Executable
 
   Download the executable directly from the repository:
@@ -17,15 +23,19 @@ Option 2: Download the Executable
 
   Place the grrs.exe file in any directory included in your system's PATH or a convenient location.
   
+
+
   
-Usage
+USAGE:
 
 Run the application from the command line with the following syntax:
 
 C:\>grrs <word> <path>
 
 
-Example:
+
+
+EXAMPLE:
 
 C:\>grrs hello C:\files\example.txt
 
