@@ -13,9 +13,10 @@
 
 
 
-Option 2: Download the Executable
+###Option 2: Download the Executable
 
   Download the executable directly from the repository:
+  ```bash
   [Download grrs.exe](https://github.com/Krygz/Simple-CLI/raw/refs/heads/main/grrs.exe)
 
   Place the grrs.exe file in any directory included in your system's PATH or a convenient location.
